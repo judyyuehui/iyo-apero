@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, my name is Judy Yue. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I'm a Ph.D. student from Chicago Booth. I did my undergraduate in China and my master degree in New York. I'm interested in finance and economics. Hope to initiate research projects that are helpful to the society. 
